@@ -1,0 +1,5 @@
+1)create a directory in E drive with your name -hexaware
+2) create one document file, create one text file and craete one folder, one java file in this craeted director
+3) create a reposirot=ry in github and save all these files into that repository
+4)add some sentences in the text file and excute deffernce gitdiff
+5) Add an text file in your github repository in pull into your local repository
