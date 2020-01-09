@@ -1,0 +1,9 @@
+https://us-east-2.console.aws.amazon.com/codesuite/codecommit/repositories/196FTP_Fork_Me_CMS_Clone/browse?region=us-east-2#
+APKAZIAMSALSHYH5GAAR
+* Host git-codecommit.*.amazonaws.com 
+* User APKAZIAMSALSI7DEOONP
+* IdentityFile ~/.ssh/id_rsa
+
+
+
+ssh git-codecommit.us-east-2.amazonaws.com
